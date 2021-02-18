@@ -1,0 +1,39 @@
+{
+  "secondaryNav": {
+    "title": "myCadmium",
+    "titleLinkTarget": "/cadmiumcd/new/platform/overview",
+    "navItems": [
+      {
+        "linkTitle": "Overview",
+        "linkTarget": "/platform"
+      },
+      {
+        "dropdown": {
+          "title": "Features",
+          "links": [
+            {
+              "linkTitle": "API Integration",
+              "linkTarget": "/cadmiumcd/new/modules/api-integration"
+            },
+            {
+              "linkTitle": "Communication Tools",
+              "linkTarget": "/cadmiumcd/new/modules/communication-tools"
+            },
+            {
+              "linkTitle": "Event Analytics",
+              "linkTarget": "/cadmiumcd/new/modules/event-analytics"
+            },
+            {
+              "linkTitle": "Missions",
+              "linkTarget": "/cadmiumcd/new/products/product/mycadmium/missions"
+            }
+          ]
+        }
+      },
+      {
+        "linkTitle": "Brochure",
+        "linkTarget": "/cadmiumcd/new/products/brochures/product/mycadmium"
+      }
+    ]
+  }
+}

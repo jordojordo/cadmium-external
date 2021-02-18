@@ -1,0 +1,113 @@
+{
+  "secondaryNav": {
+    "title": "eventScribe®",
+    "titleLinkTarget": "/cadmiumcd/new/platform/attendee-engagement/",
+    "navItems": [
+      {
+        "dropdown": {
+          "title": "Platform",
+          "links": [
+            {
+              "linkTitle": "App",
+              "linkTarget": "/cadmiumcd/new/products/product/eventscribe/app"
+            },
+            {
+              "linkTitle": "Website",
+              "linkTarget": "/cadmiumcd/new/products/product/eventscribe/website"
+            },
+            {
+              "linkTitle": "Virtual Events",
+              "linkTarget": "/products/virtual/overview/"
+            },
+            {
+              "linkTitle": "Hybrid Events",
+              "linkTarget": "/products/hybrid"
+            },
+            {
+              "linkTitle": "ePosters",
+              "linkTarget": "/cadmiumcd/new/products/product/eventscribe/e-posters"
+            },
+            {
+              "linkTitle": "Survey Magnet",
+              "linkTarget": "/cadmiumcd/new/products/product/eventscribe/survey-magnet"
+            },
+            {
+              "linkTitle": "Live Streaming",
+              "linkTarget": "/cadmiumcd/new/products/product/eventscribe/live-streaming"
+            },
+            {
+              "linkTitle": "Floor Plan",
+              "linkTarget": "/cadmiumcd/new/products/product/eventscribe/floor-plan"
+            }
+          ]
+        }
+      },
+      {
+        "dropdown": {
+          "title": "Features",
+          "links": [
+            {
+              "linkTitle": "Event App",
+              "linkTarget": "/cadmiumcd/new/modules/event-app"
+            },
+            {
+              "linkTitle": "Event Floor Plan",
+              "linkTarget": "/cadmiumcd/new/modules/event-floor-plan"
+            },
+            {
+              "linkTitle": "Event Posters",
+              "linkTarget": "/cadmiumcd/new/modules/event-posters"
+            },
+            {
+              "linkTitle": "Event ARS",
+              "linkTarget": "/cadmiumcd/new/modules/attendee-engagement"
+            },
+            {
+              "linkTitle": "Event Surveys & Evaluations",
+              "linkTarget": "/cadmiumcd/new/modules/surveys-evaluations/"
+            },
+            {
+              "linkTitle": "Event Signage",
+              "linkTarget": "/cadmiumcd/new/modules/event-signage"
+            },
+            {
+              "linkTitle": "Event Website",
+              "linkTarget": "/cadmiumcd/new/modules/event-website"
+            }
+          ]
+        }
+      },
+      {
+        "dropdown": {
+          "title": "Brochures",
+          "links": [
+            {
+              "linkTitle": "Event App",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/eventscribe-app"
+            },
+            {
+              "linkTitle": "Event Floor Plan",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/eventscribe-floorplan"
+            },
+            {
+              "linkTitle": "Event Posters",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/eventscribe-posters"
+            },
+            {
+              "linkTitle": "Event Surveys & Evaluations",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/survey-magnet"
+            },
+            {
+              "linkTitle": "Event Signage",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/eventscribe-signage"
+            },
+            {
+              "linkTitle": "Event Website",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/eventscribe-website"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

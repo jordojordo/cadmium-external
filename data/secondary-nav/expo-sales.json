@@ -1,0 +1,38 @@
+{
+  "secondaryNav": {
+    "title": "Expo Harvester",
+    "titleLinkTarget": "/cadmiumcd/new/platform/expo-sales",
+    "navItems": [
+      {
+        "dropdown": {
+          "title": "Features",
+          "links": [
+            {
+              "linkTitle": "Expo Management",
+              "linkTarget": "/cadmiumcd/new/modules/expo-management"
+            },
+            {
+              "linkTitle": "Expo Sales",
+              "linkTarget": "/cadmiumcd/new/modules/expo-sales"
+            }
+          ]
+        }
+      },
+      {
+        "dropdown": {
+          "title": "Learn",
+          "links": [
+            {
+              "linkTitle": "Brochure",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/expo-harvester"
+            },
+            {
+              "linkTitle": "Tour",
+              "linkTarget": "/cadmiumcd/new/products/tours/product/expo-sales"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

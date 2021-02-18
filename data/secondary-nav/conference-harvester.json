@@ -1,0 +1,31 @@
+{
+  "secondaryNav": {
+    "title": "Conference Harvester",
+    "titleLinkTarget": "/cadmiumcd/new/platform/event-management",
+    "navItems": [
+      {
+        "linkTitle": "Overview",
+        "linkTarget": "/cadmiumcd/new/products/product/conference-harvester"
+      },
+      {
+        "linkTitle": "Features",
+        "linkTarget": "/cadmiumcd/new/modules/speaker-management"
+      },
+      {
+        "dropdown": {
+          "title": "Learn",
+          "links": [
+            {
+              "linkTitle": "Brochure",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/education-harvester"
+            },
+            {
+              "linkTitle": "Tour",
+              "linkTarget": "/cadmiumcd/new/products/tours/product/education-harvester"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

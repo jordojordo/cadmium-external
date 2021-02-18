@@ -1,0 +1,35 @@
+{
+  "secondaryNav": {
+    "title": "Abstract Scorecard®",
+    "titleLinkTarget": "/cadmiumcd/new/platform/submissions-reviews/",
+    "navItems": [
+      {
+        "linkTitle": "Overview",
+        "linkTarget": "/cadmiumcd/new/products/product/scorecard/"
+      },
+      {
+        "linkTitle": "Features",
+        "linkTarget": "/cadmiumcd/new/modules/submissions-reviews/"
+      },
+      {
+        "dropdown": {
+          "title": "Learn",
+          "links": [
+            {
+              "linkTitle": "Review Types",
+              "linkTarget": "/cadmiumcd/new/modules/review-types"
+            },
+            {
+              "linkTitle": "Brochure",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/scorecard"
+            },
+            {
+              "linkTitle": "Tour",
+              "linkTarget": "/cadmiumcd/new/products/tours/product/scorecard"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

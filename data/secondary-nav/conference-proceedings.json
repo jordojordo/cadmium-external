@@ -1,0 +1,27 @@
+{
+  "secondaryNav": {
+    "title": "Conference Proceedings",
+    "titleLinkTarget": "/cadmiumcd/new/platform/event-management",
+    "navItems": [
+      {
+        "linkTitle": "Features",
+        "linkTarget": "/cadmiumcd/new/modules/recordings-proceedings"
+      },
+      {
+        "dropdown": {
+          "title": "Learn",
+          "links": [
+            {
+              "linkTitle": "Brochure",
+              "linkTarget": "/cadmiumcd/new/products/brochures/product/conference-proceedings"
+            },
+            {
+              "linkTitle": "Tour",
+              "linkTarget": "/cadmiumcd/new/products/tours/product/conference-proceedings"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
